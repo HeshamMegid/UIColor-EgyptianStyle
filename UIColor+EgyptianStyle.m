@@ -1,6 +1,5 @@
 //
 //  UIColor+EgyptianStyle.m
-//  EgyptianStyleColorsExample
 //
 //  Created by Hesham Abd-Elmegid on 27/3/13.
 //  Copyright (c) 2013 Hesham Abd-Elmegid. All rights reserved.
