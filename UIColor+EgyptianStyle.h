@@ -18,6 +18,7 @@
 + (UIColor *)lamoonyColor;
 + (UIColor *)lightKharawyColor;
 + (UIColor *)samawyColor;
++ (UIColor *)targee3Color;
 + (UIColor *)zatoonyColor;
 
 @end

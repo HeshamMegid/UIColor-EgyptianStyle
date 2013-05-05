@@ -45,6 +45,10 @@
     return [UIColor colorWithRed:1.0f/255.0f green:148.0f/255.0f blue:96.0f/255.0f alpha:1.0f];
 }
 
++ (UIColor *)targee3Color {
+    return [UIColor colorWithRed:203.0f/255.0f green:174.0f/255.0f blue:114.0f/255.0f alpha:1.0f];
+}
+
 + (UIColor *)zatoonyColor {
     return [UIColor colorWithRed:76.0f/255.0f green:81.0f/255.0f blue:41.0f/255.0f alpha:1.0f];
 }

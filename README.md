@@ -18,6 +18,7 @@ Drag `UIColor+EgyptianStyle.h` and `UIColor+EgyptianStyle.m` into your project, 
 * lamoonyColor
 * lightKharawyColor
 * samawyColor
+* targee3Color
 * zatoonyColor
 
 ## Why is this useful?
