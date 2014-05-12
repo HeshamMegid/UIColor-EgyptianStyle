@@ -9,13 +9,12 @@
 
 @implementation UIColor (EgyptianStyle)
 
-+ (UIColor *)betenganyColor {
-    return [UIColor colorWithRed:38.0f/255.0f green:0.0f/255.0f blue:0.0f/255.0f alpha:1.0f];
-}
-
 + (UIColor *)bate5yColor{
     return [UIColor colorWithRed:255.0f/255.0f green:82.0f/255.0f blue:82.0f/255.0f alpha:1.0f];
- 
+}
+
++ (UIColor *)betenganyColor {
+    return [UIColor colorWithRed:38.0f/255.0f green:0.0f/255.0f blue:0.0f/255.0f alpha:1.0f];
 }
 
 + (UIColor *)feranyColor {

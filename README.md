@@ -9,6 +9,7 @@ Drag `UIColor+EgyptianStyle.h` and `UIColor+EgyptianStyle.m` into your project, 
 
 ## Available colors
 
+* bate5yColor
 * betenganyColor
 * feranyColor
 * fo7lo2yColor
