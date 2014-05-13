@@ -9,6 +9,7 @@
 
 @interface UIColor (EgyptianStyle)
 
++ (UIColor *)bate5yColor;
 + (UIColor *)betenganyColor;
 + (UIColor *)feranyColor;
 + (UIColor *)fo7lo2yColor;
